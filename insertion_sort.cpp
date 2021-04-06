@@ -34,3 +34,6 @@ void insrtSort(A, n) // given array A of size n
 		A[i+1]=key;//set key value to it's correct index position in sorted list
 	}
 }
+
+
+//hello this is comment.
